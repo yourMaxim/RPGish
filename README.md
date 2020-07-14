@@ -1,3 +1,3 @@
 # The-Game
-##Rules
-###Figure out your self
+## Rules
+### Figure out your self
